@@ -3,5 +3,5 @@ a floor is lava game where the player is controled by an AI using the Neural Net
 
 Requirements:
 python 3,
-numpy,
-pygame,
+numpy and 
+pygame
